@@ -6,6 +6,9 @@
 
 ### CardioGAN: Attentive Generative Adversarial Network with Dual Discriminators for Synthesis of ECG from PPG
 ### Authors: [Pritam Sarkar](https://www.pritamsarkar.com) and [Ali Etemad](https://www.alietemad.com)
+
+This repository is cloned from our original release in gilab, you may check it here: https://code.engineering.queensu.ca/pritam/ppg2ecg-cardiogan/
+
 <hr style="height:1px" />
 
 <img src="./images/merged_cardiogan.svg"/>
@@ -28,6 +31,7 @@
 
 ### Test
 We provide the weights for CardioGAN, trained on the four public datasets mentioned above. The sample code can be used to convert PPG signals to ECG.
+- [weights](https://code.engineering.queensu.ca/pritam/ppg2ecg-cardiogan/-/tree/master/weights)
 ```
 test_cardiogan.py
 ```
