@@ -1,4 +1,4 @@
-# CardioGAN
+# CardioGAN - AAAI 2021
 
 <p align="center"> 
 <img src="./images/ppg2ecg_fast.gif" width=100% /> 
@@ -7,7 +7,7 @@
 ### CardioGAN: Attentive Generative Adversarial Network with Dual Discriminators for Synthesis of ECG from PPG
 ### Authors: [Pritam Sarkar](https://www.pritamsarkar.com) and [Ali Etemad](https://www.alietemad.com)
 
-This repository is cloned from our original release in gilab, you may check it here: https://code.engineering.queensu.ca/pritam/ppg2ecg-cardiogan/
+This repository is cloned from our original release in gitlab, you may check it here: https://code.engineering.queensu.ca/pritam/ppg2ecg-cardiogan/
 
 <hr style="height:1px" />
 
@@ -31,7 +31,7 @@ This repository is cloned from our original release in gilab, you may check it h
 
 ### Test
 We provide the weights for CardioGAN, trained on the four public datasets mentioned above. The sample code can be used to convert PPG signals to ECG.
-- [weights](https://code.engineering.queensu.ca/pritam/ppg2ecg-cardiogan/-/tree/master/weights)
+[link to download weights](https://code.engineering.queensu.ca/pritam/ppg2ecg-cardiogan/-/tree/master/weights)
 ```
 test_cardiogan.py
 ```
@@ -42,6 +42,8 @@ cardiogan_realtime.py
 ```
 Please see a **live demonstration** using this link. [![Watch the video](./images/cardiogan_demo_public.jpg)](https://youtu.be/z0Dr4k24t7U)
 
+### AAAI Talk
+My AAAI presentation can be found here: https://youtu.be/npMzbIfkVuo.
 
 ### Citation
 Please cite our paper below when using or referring to our work.
