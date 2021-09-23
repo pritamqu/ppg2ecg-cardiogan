@@ -45,7 +45,7 @@ Please see a **live demonstration** using this link. [![Watch the video](./image
 ### Additional Materials
 - My AAAI presentation can be found here: https://youtu.be/npMzbIfkVuo.
 - Please check my slides here at: https://www.slideshare.net/PritamSarkar8/cardiogan
-- The poster displayed at AAAI-21 is availble here: https://www.slideshare.net/PritamSarkar8/cardiogan-poster
+<!-- - The poster displayed at AAAI-21 is availble here: https://www.slideshare.net/PritamSarkar8/cardiogan-poster> -->
 
 ### Media Coverage/Articles
 - [Medium article](https://srisruthichilukuri.medium.com/synthesizing-electrocardiogram-ecg-from-photoplethysmogram-ppg-using-generative-adversarial-60c9724d9e70)
