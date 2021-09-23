@@ -1,12 +1,10 @@
-# CardioGAN - AAAI 2021 
-## [Paper](https://arxiv.org/pdf/2010.00104.pdf) - [Repository](https://github.com/pritamqu/ppg2ecg-cardiogan) - [Project Page](https://pritamqu.github.io/ppg2ecg-cardiogan/)
-
 <p align="center"> 
 <img src="./images/ppg2ecg_fast.gif" width=100% /> 
 </p>
 
 ### CardioGAN: Attentive Generative Adversarial Network with Dual Discriminators for Synthesis of ECG from PPG
 ### Authors: [Pritam Sarkar](https://www.pritamsarkar.com) and [Ali Etemad](https://www.alietemad.com)
+## [Paper](https://arxiv.org/pdf/2010.00104.pdf) - [Repository](https://github.com/pritamqu/ppg2ecg-cardiogan) - [Project Page](https://pritamqu.github.io/ppg2ecg-cardiogan/)
 
 This repository is cloned from our original release in gitlab, you may check it here: https://code.engineering.queensu.ca/pritam/ppg2ecg-cardiogan/
 
