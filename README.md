@@ -1,4 +1,4 @@
-# CardioGAN - AAAI 2021 [Paper](https://arxiv.org/pdf/2010.00104.pdf) [Repository](https://github.com/pritamqu/ppg2ecg-cardiogan)
+# CardioGAN - AAAI 2021 - [Paper](https://arxiv.org/pdf/2010.00104.pdf) - [Repository](https://github.com/pritamqu/ppg2ecg-cardiogan)
 
 <p align="center"> 
 <img src="./images/ppg2ecg_fast.gif" width=100% /> 
