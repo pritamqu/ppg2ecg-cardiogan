@@ -1,11 +1,10 @@
-# CardioGAN - AAAI 2021
-
 <p align="center"> 
 <img src="./images/ppg2ecg_fast.gif" width=100% /> 
 </p>
 
 ### CardioGAN: Attentive Generative Adversarial Network with Dual Discriminators for Synthesis of ECG from PPG
 ### Authors: [Pritam Sarkar](https://www.pritamsarkar.com) and [Ali Etemad](https://www.alietemad.com)
+## [Paper](https://arxiv.org/pdf/2010.00104.pdf) - [Repository](https://github.com/pritamqu/ppg2ecg-cardiogan) - [Project Page](https://pritamqu.github.io/ppg2ecg-cardiogan/)
 
 This repository is cloned from our original release in gitlab, you may check it here: https://code.engineering.queensu.ca/pritam/ppg2ecg-cardiogan/
 
@@ -42,8 +41,16 @@ cardiogan_realtime.py
 ```
 Please see a **live demonstration** using this link. [![Watch the video](./images/cardiogan_demo_public.jpg)](https://youtu.be/z0Dr4k24t7U)
 
-### AAAI Talk
-My AAAI presentation can be found here: https://youtu.be/npMzbIfkVuo.
+
+### Additional Materials
+- My AAAI presentation can be found here: https://youtu.be/npMzbIfkVuo.
+- Please check my slides here at: https://www.slideshare.net/PritamSarkar8/cardiogan
+<!-- - The poster displayed at AAAI-21 is availble here: https://www.slideshare.net/PritamSarkar8/cardiogan-poster> -->
+
+### Media Coverage/Articles
+- [Medium article](https://srisruthichilukuri.medium.com/synthesizing-electrocardiogram-ecg-from-photoplethysmogram-ppg-using-generative-adversarial-60c9724d9e70)
+- [Queen's article](https://engineering.queensu.ca/news/2021/08/queens-engineering-researchers-identify-an-accessible-affordable-means-to-continuously-monitor-cardiac-health.html?fbclid=IwAR2QkogcWjQwAMom-JSECyubSj9a_0LV9pFE1lYtZEIQwv5a-ewqC-DSAas)
+
 
 ### Citation
 Please cite our paper below when using or referring to our work.
