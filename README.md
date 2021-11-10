@@ -28,7 +28,7 @@
 
 ### Test
 We provide the weights for CardioGAN, trained on the four public datasets mentioned above. The sample code can be used to convert PPG signals to ECG.
-[link to download weights](./weights)
+[link to download weights](https://github.com/pritamqu/ppg2ecg-cardiogan/releases/download/model_weights/cardiogan_ppg2ecg_generator.zip)
 ```
 test_cardiogan.py
 ```
